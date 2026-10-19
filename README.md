@@ -23,7 +23,7 @@
 **Simba7643**  
 📍 Ethiopia  
 🛡️ Building safer digital systems  
-💻 Software + Security + Networking
+💻 Software + Security + Networking+ Robotics
 
 [![GitHub](https://img.shields.io/badge/GitHub-Simba7643-181717?style=for-the-badge&logo=github)](https://github.com/Simba7643)
 
