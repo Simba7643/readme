@@ -4,7 +4,7 @@
 
 # SIMBA7643
 
-### Cybersecurity · Networking · Software Development
+### Cybersecurity and AI researching  · Networking · Software Development using AI tools 
 
 **Build · Secure · Connect**
 
